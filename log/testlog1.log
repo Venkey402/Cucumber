@@ -1,0 +1,147 @@
+2024-08-19 10:37:42,853 [TestNG-PoolService-1] INFO Cucumber - Chrome driver setup is done
+2024-08-19 10:37:42,853 [TestNG-PoolService-3] INFO Cucumber - Chrome driver setup is done
+2024-08-19 10:37:42,853 [TestNG-PoolService-2] INFO Cucumber - Chrome driver setup is done
+2024-08-19 10:42:03,644 [TestNG-PoolService-3] INFO Cucumber - Chrome driver setup is done
+2024-08-19 10:42:03,644 [TestNG-PoolService-2] INFO Cucumber - Chrome driver setup is done
+2024-08-19 10:42:03,644 [TestNG-PoolService-1] INFO Cucumber - Chrome driver setup is done
+2024-08-19 10:42:04,672 [TestNG-PoolService-2] INFO Cucumber - Chrome browser is opened
+2024-08-19 10:42:04,672 [TestNG-PoolService-1] INFO Cucumber - Chrome browser is opened
+2024-08-19 10:42:04,672 [TestNG-PoolService-3] INFO Cucumber - Chrome browser is opened
+2024-08-19 10:42:04,721 [TestNG-PoolService-1] INFO Cucumber - Browser window maximized
+2024-08-19 10:42:04,728 [TestNG-PoolService-3] INFO Cucumber - Browser window maximized
+2024-08-19 10:42:04,729 [TestNG-PoolService-1] INFO Cucumber - Page load timeout is set to 10 secs
+2024-08-19 10:42:04,734 [TestNG-PoolService-2] INFO Cucumber - Browser window maximized
+2024-08-19 10:42:04,735 [TestNG-PoolService-3] INFO Cucumber - Page load timeout is set to 10 secs
+2024-08-19 10:42:04,735 [TestNG-PoolService-1] INFO Cucumber - Implicit timeout is set to 10 secs
+2024-08-19 10:42:04,741 [TestNG-PoolService-2] INFO Cucumber - Page load timeout is set to 10 secs
+2024-08-19 10:42:04,741 [TestNG-PoolService-3] INFO Cucumber - Implicit timeout is set to 10 secs
+2024-08-19 10:42:04,746 [TestNG-PoolService-2] INFO Cucumber - Implicit timeout is set to 10 secs
+2024-08-19 10:42:05,390 [TestNG-PoolService-3] INFO Cucumber - Url is opened
+2024-08-19 10:42:05,429 [TestNG-PoolService-3] INFO Cucumber - Homepage object got created
+2024-08-19 10:42:05,516 [TestNG-PoolService-2] INFO Cucumber - Url is opened
+2024-08-19 10:42:05,516 [TestNG-PoolService-2] INFO Cucumber - Homepage object got created
+2024-08-19 10:42:05,550 [TestNG-PoolService-1] INFO Cucumber - Url is opened
+2024-08-19 10:42:05,552 [TestNG-PoolService-1] INFO Cucumber - Homepage object got created
+2024-08-19 10:42:05,930 [TestNG-PoolService-1] INFO Cucumber - Browser instance is quitted
+2024-08-19 10:42:06,178 [TestNG-PoolService-2] INFO Cucumber - Browser instance is quitted
+2024-08-19 10:42:06,724 [TestNG-PoolService-3] INFO Cucumber - Browser instance is quitted
+2024-08-19 10:43:10,977 [TestNG-PoolService-2] INFO Cucumber - Chrome driver setup is done
+2024-08-19 10:43:10,977 [TestNG-PoolService-3] INFO Cucumber - Chrome driver setup is done
+2024-08-19 10:43:10,977 [TestNG-PoolService-1] INFO Cucumber - Chrome driver setup is done
+2024-08-19 10:43:12,071 [TestNG-PoolService-1] INFO Cucumber - Chrome browser is opened
+2024-08-19 10:43:12,071 [TestNG-PoolService-2] INFO Cucumber - Chrome browser is opened
+2024-08-19 10:43:12,071 [TestNG-PoolService-3] INFO Cucumber - Chrome browser is opened
+2024-08-19 10:43:12,119 [TestNG-PoolService-1] INFO Cucumber - Browser window maximized
+2024-08-19 10:43:12,119 [TestNG-PoolService-2] INFO Cucumber - Browser window maximized
+2024-08-19 10:43:12,119 [TestNG-PoolService-3] INFO Cucumber - Browser window maximized
+2024-08-19 10:43:12,127 [TestNG-PoolService-3] INFO Cucumber - Page load timeout is set to 10 secs
+2024-08-19 10:43:12,127 [TestNG-PoolService-1] INFO Cucumber - Page load timeout is set to 10 secs
+2024-08-19 10:43:12,127 [TestNG-PoolService-2] INFO Cucumber - Page load timeout is set to 10 secs
+2024-08-19 10:43:12,130 [TestNG-PoolService-1] INFO Cucumber - Implicit timeout is set to 10 secs
+2024-08-19 10:43:12,131 [TestNG-PoolService-2] INFO Cucumber - Implicit timeout is set to 10 secs
+2024-08-19 10:43:12,130 [TestNG-PoolService-3] INFO Cucumber - Implicit timeout is set to 10 secs
+2024-08-19 10:43:12,913 [TestNG-PoolService-3] INFO Cucumber - Url is opened
+2024-08-19 10:43:12,915 [TestNG-PoolService-1] INFO Cucumber - Url is opened
+2024-08-19 10:43:12,917 [TestNG-PoolService-2] INFO Cucumber - Url is opened
+2024-08-19 10:43:12,933 [TestNG-PoolService-3] INFO Cucumber - Homepage object got created
+2024-08-19 10:43:12,933 [TestNG-PoolService-2] INFO Cucumber - Homepage object got created
+2024-08-19 10:43:12,933 [TestNG-PoolService-1] INFO Cucumber - Homepage object got created
+2024-08-19 10:43:13,312 [TestNG-PoolService-1] INFO Cucumber - Browser instance is quitted
+2024-08-19 10:43:13,467 [TestNG-PoolService-2] INFO Cucumber - Browser instance is quitted
+2024-08-19 10:43:14,166 [TestNG-PoolService-3] INFO Cucumber - Browser instance is quitted
+2024-08-19 10:43:55,717 [main] INFO Cucumber - Chrome driver setup is done
+2024-08-19 10:43:55,980 [main] INFO Cucumber - Chrome driver setup is done
+2024-08-19 10:43:56,667 [main] INFO Cucumber - Chrome browser is opened
+2024-08-19 10:43:56,707 [main] INFO Cucumber - Browser window maximized
+2024-08-19 10:43:56,711 [main] INFO Cucumber - Page load timeout is set to 10 secs
+2024-08-19 10:43:56,714 [main] INFO Cucumber - Implicit timeout is set to 10 secs
+2024-08-19 10:43:56,959 [main] INFO Cucumber - Chrome browser is opened
+2024-08-19 10:43:56,983 [main] INFO Cucumber - Browser window maximized
+2024-08-19 10:43:56,986 [main] INFO Cucumber - Page load timeout is set to 10 secs
+2024-08-19 10:43:56,988 [main] INFO Cucumber - Implicit timeout is set to 10 secs
+2024-08-19 10:43:57,315 [main] INFO Cucumber - Url is opened
+2024-08-19 10:43:57,332 [main] INFO Cucumber - Homepage object got created
+2024-08-19 10:43:57,632 [main] INFO Cucumber - Url is opened
+2024-08-19 10:43:57,650 [main] INFO Cucumber - Homepage object got created
+2024-08-19 10:43:57,705 [main] INFO Cucumber - Browser instance is quitted
+2024-08-19 10:43:57,732 [main] INFO Cucumber - Chrome driver setup is done
+2024-08-19 10:43:58,016 [main] INFO Cucumber - Browser instance is quitted
+2024-08-19 10:43:58,048 [main] INFO Cucumber - Chrome driver setup is done
+2024-08-19 10:43:58,423 [main] INFO Cucumber - Chrome browser is opened
+2024-08-19 10:43:58,458 [main] INFO Cucumber - Browser window maximized
+2024-08-19 10:43:58,463 [main] INFO Cucumber - Page load timeout is set to 10 secs
+2024-08-19 10:43:58,466 [main] INFO Cucumber - Implicit timeout is set to 10 secs
+2024-08-19 10:43:58,695 [main] INFO Cucumber - Chrome browser is opened
+2024-08-19 10:43:58,737 [main] INFO Cucumber - Browser window maximized
+2024-08-19 10:43:58,740 [main] INFO Cucumber - Page load timeout is set to 10 secs
+2024-08-19 10:43:58,742 [main] INFO Cucumber - Implicit timeout is set to 10 secs
+2024-08-19 10:43:59,100 [main] INFO Cucumber - Url is opened
+2024-08-19 10:43:59,102 [main] INFO Cucumber - Homepage object got created
+2024-08-19 10:43:59,371 [main] INFO Cucumber - Url is opened
+2024-08-19 10:43:59,373 [main] INFO Cucumber - Homepage object got created
+2024-08-19 10:43:59,633 [main] INFO Cucumber - Browser instance is quitted
+2024-08-19 10:43:59,657 [main] INFO Cucumber - Chrome driver setup is done
+2024-08-19 10:43:59,913 [main] INFO Cucumber - Browser instance is quitted
+2024-08-19 10:43:59,947 [main] INFO Cucumber - Chrome driver setup is done
+2024-08-19 10:44:00,338 [main] INFO Cucumber - Chrome browser is opened
+2024-08-19 10:44:00,368 [main] INFO Cucumber - Browser window maximized
+2024-08-19 10:44:00,372 [main] INFO Cucumber - Page load timeout is set to 10 secs
+2024-08-19 10:44:00,374 [main] INFO Cucumber - Implicit timeout is set to 10 secs
+2024-08-19 10:44:00,592 [main] INFO Cucumber - Chrome browser is opened
+2024-08-19 10:44:00,617 [main] INFO Cucumber - Browser window maximized
+2024-08-19 10:44:00,620 [main] INFO Cucumber - Page load timeout is set to 10 secs
+2024-08-19 10:44:00,622 [main] INFO Cucumber - Implicit timeout is set to 10 secs
+2024-08-19 10:44:00,995 [main] INFO Cucumber - Url is opened
+2024-08-19 10:44:00,998 [main] INFO Cucumber - Homepage object got created
+2024-08-19 10:44:01,227 [main] INFO Cucumber - Url is opened
+2024-08-19 10:44:01,228 [main] INFO Cucumber - Homepage object got created
+2024-08-19 10:44:02,234 [main] INFO Cucumber - Browser instance is quitted
+2024-08-19 10:44:02,515 [main] INFO Cucumber - Browser instance is quitted
+2024-08-19 10:48:24,462 [main] INFO Cucumber - Chrome driver setup is done
+2024-08-19 10:48:25,289 [main] INFO Cucumber - Chrome browser is opened
+2024-08-19 10:48:25,335 [main] INFO Cucumber - Browser window maximized
+2024-08-19 10:48:25,339 [main] INFO Cucumber - Page load timeout is set to 10 secs
+2024-08-19 10:48:25,340 [main] INFO Cucumber - Implicit timeout is set to 10 secs
+2024-08-19 10:48:25,949 [main] INFO Cucumber - Url is opened
+2024-08-19 10:48:25,962 [main] INFO Cucumber - Homepage object got created
+2024-08-19 10:48:26,226 [main] INFO Cucumber - Browser instance is quitted
+2024-08-19 10:48:26,248 [main] INFO Cucumber - Chrome driver setup is done
+2024-08-19 10:48:26,833 [main] INFO Cucumber - Chrome browser is opened
+2024-08-19 10:48:26,868 [main] INFO Cucumber - Browser window maximized
+2024-08-19 10:48:26,871 [main] INFO Cucumber - Page load timeout is set to 10 secs
+2024-08-19 10:48:26,872 [main] INFO Cucumber - Implicit timeout is set to 10 secs
+2024-08-19 10:48:27,588 [main] INFO Cucumber - Url is opened
+2024-08-19 10:48:27,591 [main] INFO Cucumber - Homepage object got created
+2024-08-19 10:48:27,837 [main] INFO Cucumber - Browser instance is quitted
+2024-08-19 10:48:27,856 [main] INFO Cucumber - Chrome driver setup is done
+2024-08-19 10:48:28,466 [main] INFO Cucumber - Chrome browser is opened
+2024-08-19 10:48:28,500 [main] INFO Cucumber - Browser window maximized
+2024-08-19 10:48:28,503 [main] INFO Cucumber - Page load timeout is set to 10 secs
+2024-08-19 10:48:28,505 [main] INFO Cucumber - Implicit timeout is set to 10 secs
+2024-08-19 10:48:29,261 [main] INFO Cucumber - Url is opened
+2024-08-19 10:48:29,262 [main] INFO Cucumber - Homepage object got created
+2024-08-19 10:48:29,503 [main] INFO Cucumber - Browser instance is quitted
+2024-08-19 10:50:02,881 [main] INFO Cucumber - Chrome driver setup is done
+2024-08-19 10:50:03,726 [main] INFO Cucumber - Chrome browser is opened
+2024-08-19 10:50:03,758 [main] INFO Cucumber - Browser window maximized
+2024-08-19 10:50:03,763 [main] INFO Cucumber - Page load timeout is set to 10 secs
+2024-08-19 10:50:03,764 [main] INFO Cucumber - Implicit timeout is set to 10 secs
+2024-08-19 10:50:04,345 [main] INFO Cucumber - Url is opened
+2024-08-19 10:50:04,360 [main] INFO Cucumber - Homepage object got created
+2024-08-19 10:50:04,667 [main] INFO Cucumber - Browser instance is quitted
+2024-08-19 10:50:04,690 [main] INFO Cucumber - Chrome driver setup is done
+2024-08-19 10:50:05,274 [main] INFO Cucumber - Chrome browser is opened
+2024-08-19 10:50:05,311 [main] INFO Cucumber - Browser window maximized
+2024-08-19 10:50:05,313 [main] INFO Cucumber - Page load timeout is set to 10 secs
+2024-08-19 10:50:05,316 [main] INFO Cucumber - Implicit timeout is set to 10 secs
+2024-08-19 10:50:06,295 [main] INFO Cucumber - Url is opened
+2024-08-19 10:50:06,296 [main] INFO Cucumber - Homepage object got created
+2024-08-19 10:50:06,710 [main] INFO Cucumber - Browser instance is quitted
+2024-08-19 10:50:06,729 [main] INFO Cucumber - Chrome driver setup is done
+2024-08-19 10:50:07,322 [main] INFO Cucumber - Chrome browser is opened
+2024-08-19 10:50:07,356 [main] INFO Cucumber - Browser window maximized
+2024-08-19 10:50:07,360 [main] INFO Cucumber - Page load timeout is set to 10 secs
+2024-08-19 10:50:07,362 [main] INFO Cucumber - Implicit timeout is set to 10 secs
+2024-08-19 10:50:08,098 [main] INFO Cucumber - Url is opened
+2024-08-19 10:50:08,101 [main] INFO Cucumber - Homepage object got created
+2024-08-19 10:50:09,237 [main] INFO Cucumber - Browser instance is quitted

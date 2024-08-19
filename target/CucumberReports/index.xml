@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="6.841" tests="3" skipped="0" failures="0" errors="0">
+<testcase classname="Ordering in GreenKart" name="1. Search for a product and add to cart" time="2.118">
+<system-out><![CDATA[
+Given user launches the greenkart application...............................passed
+When user searches for "Tom" and adds to cart...............................passed
+Then user checks product with name "Tom" added to the cart..................passed
+]]></system-out>
+</testcase>
+<testcase classname="Ordering in GreenKart" name="2. Checkout products added to the cart" time="2.033">
+<system-out><![CDATA[
+Given user launches the greenkart application...............................passed
+When user searches for "Tom" and adds to cart...............................passed
+Then user checks product with name "Tom" added to the cart..................passed
+When user checksout the products added to cart..............................passed
+Then user verifies the product name from order page.........................passed
+]]></system-out>
+</testcase>
+<testcase classname="Ordering in GreenKart" name="3. Order the products from checkout page" time="2.522">
+<system-out><![CDATA[
+Given user launches the greenkart application...............................passed
+When user searches for "Tom" and adds to cart...............................passed
+Then user checks product with name "Tom" added to the cart..................passed
+When user checksout the products added to cart..............................passed
+Then user verifies the product name from order page.........................passed
+When user places the order..................................................passed
+And user selects the country "India"........................................passed
+Then user accepts the agreement.............................................passed
+And user proceeds with the order............................................passed
+Then user recieves "your order has been placed successfully" message........passed
+]]></system-out>
+</testcase>
+</testsuite>
